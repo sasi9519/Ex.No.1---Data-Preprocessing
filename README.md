@@ -64,37 +64,60 @@ Dataset
 
 
 checking for null values:
+
+
+
 ![192951831-c32485fa-ba7b-4625-ab0c-4361657d6d0b](https://user-images.githubusercontent.com/83326978/193036266-0788b734-593d-4629-9d4f-a041a5209c6a.png)
 
 
 
 checking for duplicate values:
+
+
+
 ![192952680-9c2cf2d3-858b-4bdf-98cf-f356d84a571a](https://user-images.githubusercontent.com/83326978/193036293-082786eb-4c6d-42ac-86bc-14625fca29c6.png)
 
 
 
 Describing Data:
+
+
+
 ![192953487-609c4eef-5d89-46d5-bb2b-0b15a4553082](https://user-images.githubusercontent.com/83326978/193036312-e86a80d9-3c42-43e3-975f-001be42b53ec.png)
 
 
 
-Checking for outliers in Exited Column
+Checking for outliers in Exited Column:
+
+
 ![192953810-78b49e03-da5d-44d3-9613-09ddb65b7ef7](https://user-images.githubusercontent.com/83326978/193036342-727e3f9c-d31c-4e3e-add5-c5e41217e4c9.png)
 
 
 
 Normalized Dataset 
+
+
 ![192954241-b0d4947c-b534-48ff-b279-375acc32ff23](https://user-images.githubusercontent.com/83326978/193036364-bf80761e-e528-4963-917f-db291d69e1fa.png)
 
 
 
 Describing Normalized Data: 
 
+
+
 ![192954334-58f7419a-c49d-4b1a-acf8-36ef015a6f27](https://user-images.githubusercontent.com/83326978/193036391-e3e4076f-cdc7-4ac6-b2ee-b4e8d4404b42.png)
 
 
-X - Values:
+X_test and Y_test values:
+
+
+
+![190868454-d5e8ba89-62d7-49a9-9e00-67890302112a](https://user-images.githubusercontent.com/83326978/193037395-a326866e-1e96-4cc5-b5f3-d64eeb7edffd.png)
+
+
 
 
 ##RESULT
-/Type your result here/
+
+
+Thus the above program for standardizing the given data was implemented successfully
